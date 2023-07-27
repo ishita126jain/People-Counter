@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 - Create a mask image named mask.png that defines the area where you want to count vehicles. The rest of the video will be masked out.
 
-3. Run the Car Counter:
+3. Run the People Counter:
 ```bash
 python people_counter.py 
 ``` 
